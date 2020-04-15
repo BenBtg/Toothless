@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toothless", "Toothless\Toothless.csproj", "{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FEEB8F26-F3D2-4FB1-9D50-4F629CD97A16}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
